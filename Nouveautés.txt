@@ -1,0 +1,25 @@
+Version 1 (Octobre 2012)
+==========================
+ - Première version
+ - Mode solo
+ - Un seul niveau (Nombre inf. à 100)
+
+Version 2 (Novembre 2012)
+==========================
+ - Mode multijoueur
+ - 4 niveaux en solo & en multijoueur
+
+Version 3 (à venir)
+==========================
+ - Correction de bugs
+ - Nouveau mode J1 vs IA
+ - Simplification du code
+ - Amélioration du logiciel
+
+
+Ce que je vous demande :
+==========================
+ - Trouver ou/et corriger les bugs
+ - Simplifier le code
+ - Améliorer le logiciel
+ - Tout ce que vous voudrez qui améliorera le jeu
