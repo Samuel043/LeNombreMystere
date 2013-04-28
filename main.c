@@ -244,7 +244,7 @@ case 2:
 
       else
       {
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
           return 0;
       }
 
@@ -272,7 +272,7 @@ case 2:
       else
       {
           nc2++;
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
   return 0;
    }
    }
@@ -317,7 +317,7 @@ case 2:
       else
       {
           nc1++;
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
           return 0;
       }
 
@@ -346,7 +346,7 @@ case 2:
       else
       {
           nc2++;
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
           return 0;
    }
    }
@@ -390,7 +390,7 @@ case 2:
       else
       {
          nc1++;
-         printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
+         printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
          return 0;
       }
 
@@ -419,7 +419,7 @@ case 2:
       else
       {
           nc2++;
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
      return 0;
       }
    }
@@ -463,7 +463,7 @@ case 2:
       else
       {
           nc1++;
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur1, nc1/2, joueur2);
           return 0;
       }
 
@@ -491,7 +491,7 @@ case 2:
       else
       {
           nc2++;
-          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
+          printf("Bravo, c'est bien le nombre mystère !\nLa partie a été remportée par %s en %d coups, félicitations ! Dommage pour vous, %s. Vous aurez peut-être plus de chance la prochaine fois ;-)\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n", joueur2, nc2, joueur1);
    }
     printf("Le nombre mystère a été défini. Bonne chance ! \n");
       printf("Nombre : ");
@@ -524,12 +524,12 @@ else if (nombre_utilisateur > nombre_mystere)
    }
   break;
   default:
-  printf("Le logiciel va être fermé. Vous avez entré un(des) caractère(s) incorrect(s).\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n");
+  printf("Le logiciel va être fermé. Vous avez entré un(des) caractère(s) incorrect(s).\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n");
   return 1;
   break;
 }
 default:
-  printf("Le logiciel va être fermé. Vous avez entré un(des) caractère(s) incorrect(s).\n\n--------------------------------------------------------------------------------\n       Par Samuel Boïté, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n");
+  printf("Le logiciel va être fermé. Vous avez entré un(des) caractère(s) incorrect(s).\n\n--------------------------------------------------------------------------------\n       Par Samuel043, le 7 novembre 2012 à 11:56 - www.samuel-blog.tk\n\n\n");
   return 1;
   break;
   }
