@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
   int nc2 = 0;
   int nmystere = 0;
 
-  printf("                          == Le Nombre Mystere v3 ==\n\n");
+  printf("                     == Le Nombre Mystere [prerelease] ==\n\n");
   printf("--------------------------------------------------------------------------------\n");
   printf("Bienvenue dans le jeu du Nombre Mystere ! Dans ce jeu, vous devez trouver le nombre mystere grace a des indices. Bonne chance !\n");
   printf("--------------------------------------------------------------------------------\n");
